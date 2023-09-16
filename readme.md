@@ -48,7 +48,7 @@ The project was created using the following tech:
 I have kept the file structure as simple as possible.
 
     .
-    ├── index.html
+    ├── index.php
     ├── get_currently_playing.php
     ├── screenshot
     └── README.md    ```
