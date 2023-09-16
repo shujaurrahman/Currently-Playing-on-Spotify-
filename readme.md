@@ -27,7 +27,8 @@ The project was created using the following tech:
 ```
 - Javascript 
 - css 
-- Html 
+- Html
+- PHP
 ```
 
 
